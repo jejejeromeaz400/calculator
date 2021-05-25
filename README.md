@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/jejeorg/PartsUnlimited-LabM06b/_apis/build/status/jejejeromeaz400.calculator?branchName=master)](https://dev.azure.com/jejeorg/PartsUnlimited-LabM06b/_build/latest?definitionId=9&branchName=master)
